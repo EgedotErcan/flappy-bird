@@ -1,5 +1,5 @@
 # Flappy-Bird
-Flappy Bird red edit by my first part of game developer world .
+Flappy Bird red edit is the first project of my game development career .
 
 # Developers 
 ## Ege
